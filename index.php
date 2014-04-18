@@ -18,6 +18,7 @@ EVERYONE CAN DO ALL YOU WANT TO DO
 	</script>
 	<?php
 	// put your code heres
+	echo "Shit";
 	?>
 	</div>
     </body>
