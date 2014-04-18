@@ -6,9 +6,9 @@ EVERYONE CAN DO ALL YOU WANT TO DO
 <html>
     <head>
         <meta charset="UTF-8">
-	<script src="area.js"></script>
-	<script src="point.js"></script>
-	<link rel="stylesheet" type="text/css" href="area.css" />
+	<script src="js/area.js"></script>
+	<script src="js/point.js"></script>
+	<link rel="stylesheet" type="text/css" href="css/area.css" />
         <title>Bonb Sweeper</title>
     </head>
     <body>
